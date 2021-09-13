@@ -16,5 +16,5 @@ Passos:
 - Selecione a Opção Desejada
 - Aperte em Next
 - Espere finalizar o download
-- Execute o arquivo, clicando nele
+- Execute o arquivo, clicando nele ou indo na pasta de Downloads do Windows
 - Siga os passos
