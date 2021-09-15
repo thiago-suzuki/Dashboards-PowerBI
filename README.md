@@ -1,4 +1,4 @@
-# Dashboards PowerBI
+# Dashboards PowerBI <img height="50" width="60" src="https://github.com/microsoft/PowerBI-Icons/blob/bb026ec2f21c130f9523fab2749449c27485c8e3/SVG/PowerBI.svg">
 Dashboards feitos no Intensivão de Power BI da Hashtag Treinamentos
 - Dashboard de Compras: [Veja Aqui](Imagens/Compras.png)
 - Dashboard de Logística: [Veja Aqui](Imagens/Logistica.png)
